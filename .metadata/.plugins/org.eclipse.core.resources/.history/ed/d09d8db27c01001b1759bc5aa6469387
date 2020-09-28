@@ -1,0 +1,15 @@
+<?php
+namespace ev1;
+$n = 0;
+$p = $n-1;
+
+echo 'Introduce n: ';
+fscanf('STDIN', "%d\n", $n);
+
+echo 'Introduce p: ';
+fscanf('STDIN', "%d\n", $p);
+
+for (i=n;){
+    
+};
+?>
