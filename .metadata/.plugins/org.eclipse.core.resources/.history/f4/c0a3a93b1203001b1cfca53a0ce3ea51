@@ -1,0 +1,14 @@
+<?php
+namespace ev1;
+
+$ldt= 'txt';
+$n = 0;
+
+echo 'Línea de txt: ';
+fscanf(STDIN, "%s\n", $ldt);
+
+echo 'Línea de txt: ';
+fscanf(STDIN, "%s\n", $n);
+
+?>
+

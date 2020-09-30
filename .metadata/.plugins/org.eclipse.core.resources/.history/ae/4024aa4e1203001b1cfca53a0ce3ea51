@@ -1,0 +1,21 @@
+<?php
+namespace ev1;
+
+$ldt= 'txt';
+$n = 0;
+
+echo 'Línea de txt: ';
+fscanf(STDIN, "%s\n", $ldt);
+
+echo 'Línea de txt: ';
+fscanf(STDIN, "%s\n", $n);
+
+for ($i=1;$i<=$n;$i++){
+     echo "<h$i>$ldt</h$i>";
+}
+
+for ($j=1;$j<=$n;$j++){
+    echo "<h$j>$ldt</h$j>";
+}
+?>
+

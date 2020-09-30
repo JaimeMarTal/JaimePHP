@@ -1,0 +1,10 @@
+<?php
+namespace ev1;
+
+$ldt= 'txt';
+
+echo 'Línea de txt: ';
+fscanf(STDIN, "%s\n", $ldt);
+
+?>
+
