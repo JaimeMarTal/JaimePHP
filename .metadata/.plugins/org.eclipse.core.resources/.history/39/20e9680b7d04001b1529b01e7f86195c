@@ -1,0 +1,10 @@
+<?php
+namespace ev1;
+
+$cadena='Alberto:Garay:913334455//Ana:Garcia:914445566';
+
+$cadena2=explode('/',$cadena);
+
+print_r($cadena2);
+
+?>

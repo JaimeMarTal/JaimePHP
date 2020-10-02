@@ -1,0 +1,19 @@
+<?php
+namespace ev1;
+
+$cadena='Alberto:Garay:913334455//Ana:Garcia:914445566';
+$personas=explode('//',$cadena);
+
+foreach ($personas as $elemento){
+    
+    $datos = explode(':',$elemento);
+    echo <<<PERSONA
+
+    Nombre: $datos[0]
+    Apellido: $datos[1]
+    Teléfono: $datos[2]
+    ============ 
+    PERSONA;   
+}
+
+?>

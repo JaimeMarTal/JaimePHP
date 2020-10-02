@@ -1,0 +1,17 @@
+<?php
+namespace ev1;
+
+$cadena = 'El tonto que lo lea será tonto simpre y es tonto quien le toque por tonto';
+$palabrasprohibidas = ['tonto','tolai','gilí','pringao'];
+
+$arraycadena = explode(' ', $cadena);
+
+foreach ($arraycadena as $palabra){
+    
+    
+}
+
+$sustituido = str_replace('tonto','*****',$cadena);
+echo $sustituido;
+
+?>
