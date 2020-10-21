@@ -1,0 +1,7 @@
+<?php
+
+$nombre=$_REQUEST['nombre'];
+
+echo "<h1>HOLA $nombre</h1>"
+
+?>

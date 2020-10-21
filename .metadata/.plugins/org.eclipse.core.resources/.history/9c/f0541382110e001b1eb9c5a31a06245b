@@ -1,0 +1,9 @@
+
+<form>
+<fieldset>
+<legend>Datos</legend>
+<label for="nombre"></label><input id="nombre" type="text">
+<label for="password"></label><input id="password" type="password">
+
+</fieldset>
+</form>

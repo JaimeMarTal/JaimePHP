@@ -1,0 +1,12 @@
+<form action="ej01_post.php" method="get">
+<fieldset>
+<label for = "numero"></label><input id="numero" type ="text"><br/>
+<input type="submit">
+</fieldset>
+</form>
+
+<?php
+
+
+
+?>

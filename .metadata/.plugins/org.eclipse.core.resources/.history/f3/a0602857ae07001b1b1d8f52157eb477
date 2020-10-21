@@ -1,0 +1,14 @@
+<?php
+namespace ev1;
+
+$bd = [];
+$departamento=[];
+$empleado=[];
+
+echo <<<EMPLEADO
+
+Hola
+
+EMPLEADO;
+
+?>

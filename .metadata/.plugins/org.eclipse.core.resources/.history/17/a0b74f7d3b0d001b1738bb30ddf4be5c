@@ -1,0 +1,28 @@
+<form action="ej09_servidor" method="get">
+
+<fieldset>
+<legend>Colores radio</legend>
+	<input type="radio" name="color" value="red">
+	<input type="radio" name="color" value="green">
+	<input type="radio" name="color" value="blue">
+</fieldset>
+
+<fieldset>
+<legend>Equipo checkbox</legend>
+	<input type="checkbox" name="equipo[]" value="Madrid">
+	<input type="checkbox" name="equipo[]" value="Barsa">
+	<input type="checkbox" name="equipo[]" value="Valencia">
+</fieldset>
+
+<?php 
+require_once "ej09_servidor.php";
+
+for ($i=0;$i<=50;$i++){
+    echo $i."<br/\n";
+}
+
+?>
+
+
+
+</form>

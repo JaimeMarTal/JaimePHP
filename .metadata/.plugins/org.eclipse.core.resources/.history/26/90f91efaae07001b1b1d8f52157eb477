@@ -1,0 +1,16 @@
+<?php
+namespace ev1;
+
+$bd = [];
+$departamento=[];
+$empleado=[];
+$opcion = -1;
+
+while ()
+echo <<<EMPLEADO
+
+Hola
+
+EMPLEADO;
+
+?>

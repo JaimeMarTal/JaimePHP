@@ -1,0 +1,34 @@
+<?php
+namespace ev1;
+
+$bd = [];
+$departamento=[];
+$empleado=[];
+$opcion = 1;
+
+for ($i=$opcion;$i!=-1;){
+    echo <<<MENU
+    
+Escoge una opción:
+
+DEPARTAMENTO
+1.- Crear
+2.- Modificar
+3.- Borrar
+4.- Recuperar todos
+5.- Recuperar por Id
+
+EMPLEADO
+6.- Crear
+7.- Modificar
+8.- Borrar
+9.- Recuperar todos
+10.- Recuperar por Id
+    
+MENU;
+    
+    
+}
+
+
+?>

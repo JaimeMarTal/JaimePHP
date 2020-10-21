@@ -1,0 +1,19 @@
+<form action="ej09_servidor" method="get">
+
+<fieldset>
+<legend>Colores radio</legend>
+	<input type="radio" name="color" value="red">
+	<input type="radio" name="color" value="green">
+	<input type="radio" name="color" value="blue">
+</fieldset>
+
+<fieldset>
+<legend>Equipo checkbox</legend>
+	<input type="radio" name="color" value="red">
+	<input type="radio" name="color" value="green">
+	<input type="radio" name="color" value="blue">
+</fieldset>
+
+
+
+</form>

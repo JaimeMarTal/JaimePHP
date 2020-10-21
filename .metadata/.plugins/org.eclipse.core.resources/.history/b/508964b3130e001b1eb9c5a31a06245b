@@ -1,0 +1,13 @@
+<?php
+
+$nombre=$_GET['nombre'];
+$password=$_GET['password'];
+
+function elige_respuesta($nombre,$password){
+    
+    $respuesta = ($nombre == '' || $password == '') ? dsfsdf : dsfsdfsf;
+    
+    return $respuesta;
+}
+
+?>
