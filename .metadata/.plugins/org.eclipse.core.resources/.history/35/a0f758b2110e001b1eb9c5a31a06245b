@@ -1,9 +1,0 @@
-
-<form action="ej01_post.php" method="get">
-<fieldset>
-<legend>Datos</legend>
-<label for="nombre" value="Nombre"></label><input id="nombre" type="text"><br/>
-<label for="password"></label><input id="password" type="password"><br/>
-<input type="submit">
-</fieldset>
-</form>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.php.debug.core.launching.PHPExeLaunchConfigurationType">
-    <stringAttribute key="ATTR_FILE" value="/clase/ev1/ej07.php"/>
+    <stringAttribute key="ATTR_FILE" value="/JaimeClase/ev1/ej07.php"/>
     <stringAttribute key="ATTR_FILE_FULL_PATH" value="D:\eclipse\jaimePHP\clase\ev1\ej07.php"/>
     <stringAttribute key="ATTR_LOCATION" value="D:\xampp\php\php.exe"/>
     <booleanAttribute key="firstLineBreakpoint" value="true"/>

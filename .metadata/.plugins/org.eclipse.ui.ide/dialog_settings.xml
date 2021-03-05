@@ -6,7 +6,44 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Desarrollo\JaimePHP\loteria2"/>
+			<item value="C:\Desarrollo\JaimePHP\pap6login"/>
+			<item value="C:\Desarrollo\JaimePHP\papCompleto"/>
+			<item value="C:\Desarrollo\JaimePHP\pap8"/>
+			<item value="C:\Desarrollo\JaimePHP\pap7"/>
+			<item value="C:\Desarrollo\JaimePHP\pap6"/>
+			<item value="C:\Desarrollo\JaimePHP\pap5"/>
+			<item value="C:\Desarrollo\JaimePHP\pap3"/>
+			<item value="C:\Desarrollo\JaimePHP\prueba3login"/>
+			<item value="C:\Desarrollo\JaimePHP\prueba3"/>
+			<item value="E:\Apuntes y trabajos\CFGS D.A.W. - Desarrollo de aplicaiones web\DAW2\Curso 2019-2020\Servidor - PHP\AYUDA Servidor\Examen CI\EmpresaEmpleados\empresaLogin"/>
+			<item value="E:\Apuntes y trabajos\CFGS D.A.W. - Desarrollo de aplicaiones web\DAW2\Curso 2019-2020\Servidor - PHP\AYUDA Servidor\Examen CI\EmpresaEmpleados\empresa"/>
+			<item value="E:\Apuntes y trabajos\CFGS D.A.W. - Desarrollo de aplicaiones web\DAW2\Curso 2019-2020\Servidor - PHP\AYUDA Servidor\Examen CI\AlumnoNotas"/>
+			<item value="E:\Apuntes y trabajos\CFGS D.A.W. - Desarrollo de aplicaiones web\DAW2\Curso 2019-2020\Servidor - PHP\AYUDA Servidor\Examen CI\EmpresaEmpleados"/>
+			<item value="E:\Apuntes y trabajos\CFGS D.A.W. - Desarrollo de aplicaiones web\DAW2\Curso 2019-2020\Servidor - PHP\AYUDA Servidor\Examen CI\EmpresaEmpleados\empleadoAnna"/>
+			<item value="E:\Apuntes y trabajos\CFGS D.A.W. - Desarrollo de aplicaiones web\DAW2\Curso 2019-2020\Servidor - PHP\AYUDA Servidor\Examen CI\EmpresaEmpleados\empleado"/>
+			<item value="E:\Apuntes y trabajos\CFGS D.A.W. - Desarrollo de aplicaiones web\DAW2\Curso 2019-2020\Servidor - PHP\AYUDA Servidor\Examen CI\AlumnoNotas\notas"/>
+			<item value="C:\Desarrollo\JaimeCI"/>
+			<item value="C:\Desarrollo\dwesPHP"/>
 			<item value="D:\eclipse\dwesPHP"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\eclipse\workspacePHP\dwesPHP"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.php.ui.wizards.PHPProjectCreationWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 		</list>
 	</section>
 </section>

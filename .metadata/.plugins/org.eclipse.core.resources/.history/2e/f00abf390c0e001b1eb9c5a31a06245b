@@ -1,7 +1,0 @@
-<?php
-require_once 'util11.php';
-
-pintarCheckbox ();
-
-
-?>
